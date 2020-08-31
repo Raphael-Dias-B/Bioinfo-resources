@@ -1,2 +1,2 @@
 # Bioinfo-resources
-scripts in python how can help in some activityes
+scripts in python who can help in some activityes
